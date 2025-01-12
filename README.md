@@ -1,2 +1,4 @@
-# csd-380
-Victor Gregory's CSD-380 Github
+# CSD 380 DevOps 
+## Contributors
+- Professor Sue Sampson
+- Victor Gregory
